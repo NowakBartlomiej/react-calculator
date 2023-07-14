@@ -1,2 +1,2 @@
 # react-calculator
-![image](https://github.com/NowakBartlomiej/react-calculator/assets/108576928/5eaa7f05-7cbe-4cae-bf9c-c0efe8fbadcb)
+https://github.com/NowakBartlomiej/react-calculator/assets/108576928/ad665cc1-d012-47fb-b43f-7597fbeee3cb
